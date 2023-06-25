@@ -29,9 +29,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/cineframesofficial"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/beta_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/jeol_tg"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/Adarsh-Goel")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@itzjeol")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/cineframesofficial"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/cineframesofficial")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/cineframesadmin")],
+                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://t.me/+emMvKNbLkPg5ODI1")]
                 ]
             ),
             
